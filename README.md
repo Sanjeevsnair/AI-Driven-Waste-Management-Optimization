@@ -36,4 +36,4 @@ The current waste management system in urban areas faces several challenges, suc
 
 To get started with the project, you can follow these steps:
 
-Clone this repository to your local machine.
+Clone this repository to your local machine[https://github.com/Sanjeevsnair/AI-Driven-Waste-Management-Optimization.git]
